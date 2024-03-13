@@ -1,5 +1,5 @@
 👋 Hi, I’m @yangfa-zhang  
-👀 I’m interested in DeepLearning,PyTorch  
-🌱 I’m currently learning paddle  
-💞️ I’m looking to collaborate on Multi Task Learning  
+👀 I’m interested in Computer Vision    
+🌱 I’m currently learning spring boot,linux and rust    
+💞️ I’m looking to collaborate on computer vision    
 📫 How to reach me yangfa2-zhang@outlook.com  
